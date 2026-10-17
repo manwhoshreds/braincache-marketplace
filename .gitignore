@@ -1,0 +1,7 @@
+# Never commit signing keys or local tooling state
+*.signing-key
+*.key
+*.pem
+.env
+.env.*
+.DS_Store
