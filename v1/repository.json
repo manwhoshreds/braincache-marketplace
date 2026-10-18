@@ -1,5 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T19:54:07Z",
-  "apps": []
+  "generatedAt": "2026-10-18T01:40:30Z",
+  "apps": [
+    {
+      "id": "harvzt",
+      "name": "Harvzt",
+      "summary": "Recipes, pantry, groceries, and meal planning.",
+      "description": "Recipes, pantry inventory, groceries, and meal planning.",
+      "author": "Michael Miller",
+      "category": "food",
+      "version": "0.2.0-alpha.1",
+      "minBrainCacheVersion": "0.1.0",
+      "icon": "icons/harvzt.svg",
+      "package": "packages/harvzt-0.2.0-alpha.1.brainapp",
+      "sha256": "48031b50fd241bee7345bb1aa785df1b367e2b673b95e937db0797995bbe63fd",
+      "updatedAt": "2026-10-18T01:40:30Z"
+    }
+  ]
 }
