@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T01:40:30Z",
+  "generatedAt": "2026-10-18T02:48:36Z",
   "apps": [
     {
       "id": "harvzt",
@@ -15,6 +15,20 @@
       "package": "packages/harvzt-0.2.0-alpha.1.brainapp",
       "sha256": "48031b50fd241bee7345bb1aa785df1b367e2b673b95e937db0797995bbe63fd",
       "updatedAt": "2026-10-18T01:40:30Z"
+    },
+    {
+      "id": "breadbox",
+      "name": "Bread Box",
+      "summary": "Accounts, bank sync, bills, budgets, and reports.",
+      "description": "Private personal finance, budgeting, bills, and account tracking.",
+      "author": "Michael Miller",
+      "category": "finance",
+      "version": "0.7.0-alpha.1",
+      "minBrainCacheVersion": "0.1.0",
+      "icon": "icons/breadbox.png",
+      "package": "packages/breadbox-0.7.0-alpha.1.brainapp",
+      "sha256": "f5d01b397d6681a7c59f4dbbedea93be725d2096fdf39775a2b79853d51f2f2c",
+      "updatedAt": "2026-10-18T02:48:36Z"
     }
   ]
 }
